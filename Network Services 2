@@ -52,7 +52,7 @@
    2. No answer needed
    3. No answer needed
    4. PASSWORD/RHOSTS/USERNAME
-   5. 5.7.29-0ubuntu0.18.04.1
+   5. 8.0.42-0ubuntu0.20.04.1
    6. 4
 10. 1. auxiliary/scanner/mysql/mysql_schemadump
     2. x$waits_global_by_latency
